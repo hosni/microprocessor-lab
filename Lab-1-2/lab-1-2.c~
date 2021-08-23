@@ -1,0 +1,17 @@
+/*
+ * lab-1-2.c
+ *
+ * Created: 8/24/2021 3:53:29 AM
+ * Author: Administrator
+ */
+
+#include <io.h>
+
+void main(void)
+{
+while (1)
+    {
+    // Please write your application code here
+
+    }
+}
