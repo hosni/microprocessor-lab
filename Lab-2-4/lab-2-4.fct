@@ -1,0 +1,2 @@
+main DSTACK_USAGE:0 DSTACK_LEVEL:0 FILE:"lab-2-4.c" LINE:30
+delay_seconds_with_counter DSTACK_USAGE:4 DSTACK_LEVEL:4 FILE:"lab-2-4.c" LINE:20
